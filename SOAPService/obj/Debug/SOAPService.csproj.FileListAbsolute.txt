@@ -1,0 +1,14 @@
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\bin\SOAPService.dll.config
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\bin\SOAPService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\bin\SOAPService.pdb
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.pdb
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\bin\SOAPService.dll.config
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\bin\SOAPService.dll
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\bin\SOAPService.pdb
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\obj\Debug\SOAPService.dll
+C:\Users\abdelrahman\Downloads\project 3\SOAPService\obj\Debug\SOAPService.pdb
